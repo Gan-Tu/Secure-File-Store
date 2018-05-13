@@ -13,3 +13,7 @@ A secure and efficient file storage client for storing files on malicious remote
   * Efficient Update for Large Files
   * Detection for Illegal File Tampering
   * Security Against Man in the Middle Attacks
+
+### Design Doc
+
+You can view my design choices, security implementation, and performance analysis [here](design-doc.pdf).
