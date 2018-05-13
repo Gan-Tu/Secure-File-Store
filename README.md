@@ -17,3 +17,7 @@ A secure and efficient file storage client for storing files on malicious remote
 ### Design Doc
 
 You can view my design choices, security implementation, and performance analysis [here](design-doc.pdf).
+
+### Requirement
+
+You will need Python 3 and [PyCrypto](https://github.com/dlitz/pycrypto).
