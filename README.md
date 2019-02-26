@@ -1,4 +1,7 @@
 # Secure-File-Store
+
+[![Build Status](https://travis-ci.com/Michael-Tu/Secure-File-Store.svg?branch=master)](https://travis-ci.com/Michael-Tu/Secure-File-Store)
+
 A secure and efficient file storage client for storing files on malicious remote storage server
 
 ### Core properties

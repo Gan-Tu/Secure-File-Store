@@ -1,0 +1,8 @@
+language: python
+python:
+  - 3.7
+install:
+  - pip install pycrypto
+  - pip install numpy
+script:
+  - python run_part3_tests.py
