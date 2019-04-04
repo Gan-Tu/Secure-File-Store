@@ -14,7 +14,6 @@ import math
 from servers import StorageServer, PublicKeyServer
 from crypto import Crypto
 from base_client import IntegrityError
-from run_part1_tests import run_part1_tests
 
 
 #########################
@@ -321,7 +320,5 @@ def run_part2_tests():
 
 
 if __name__ == "__main__":
-    print("PART 1 TESTS")
-    run_part1_tests()
     print("\nPART 2 TESTS")
     run_part2_tests()
